@@ -4,4 +4,4 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/voltage_miatoll.mk
+    $(LOCAL_DIR)/yaap_miatoll.mk
